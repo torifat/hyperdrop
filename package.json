@@ -1,0 +1,12 @@
+{
+  "name": "hyperdrop",
+  "version": "0.1.0",
+  "keywords": ["hyperterm"],
+  "description": "Drop-down support for HyperTerm",
+  "main": "index.js",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/torifat/hyperdrop/issues"
+  },
+  "homepage": "https://github.com/torifat/hyperdrop#readme"
+}
